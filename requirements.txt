@@ -32,7 +32,6 @@ Faker==13.12.1
 fasteners==0.14.1
 filelock==3.0.12
 future==0.18.2
-gpg===1.13.1-unknown
 gunicorn==20.1.0
 httplib2==0.14.0
 idna==3.3
